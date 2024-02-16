@@ -7,7 +7,7 @@
 
 /**
  * @brief Calculates the factorial of a given number.
- * @param n The number whose factorial is to be calculated.
+ * @param n The number whose factorial is to be calcu
  * @return The factorial of the input number.
  */
 unsigned long long factorial(int n) {
@@ -18,10 +18,7 @@ unsigned long long factorial(int n) {
     }
 }
 
-/**
- * @brief Main function to demonstrate the factorial function.
- * @return 0 on successful execution.
- */
+
 int main() {
     // Input number
     int number = 5;
